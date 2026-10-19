@@ -22,43 +22,43 @@
                 <mxCell id="dw" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Dosen Wali" vertex="1">
                     <mxGeometry height="80" width="40" x="1040" y="660" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC01" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC01&lt;br&gt;Lihat Jadwal Kuliah" vertex="1">
+                <mxCell id="UC01" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Lihat Jadwal Kuliah" vertex="1">
                     <mxGeometry height="56" width="205" x="267.5" y="72" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC05" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC05&lt;br&gt;Unduh Bukti Pengajuan KRS" vertex="1">
+                <mxCell id="UC05" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;br&gt;Unduh Bukti Pengajuan KRS" vertex="1">
                     <mxGeometry height="56" width="205" x="267.5" y="162" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC03" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC03&lt;br&gt;Ajukan KRS" vertex="1">
+                <mxCell id="UC03" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ajukan KRS" vertex="1">
                     <mxGeometry height="56" width="205" x="267.5" y="262" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC04" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC04&lt;br&gt;Validasi KRS" vertex="1">
+                <mxCell id="UC04" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Validasi KRS" vertex="1">
                     <mxGeometry height="56" width="205" x="267.5" y="372" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC09" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC09&lt;br&gt;Lihat KHS" vertex="1">
+                <mxCell id="UC09" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Lihat KHS" vertex="1">
                     <mxGeometry height="56" width="205" x="267.5" y="492" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC07" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC07&lt;br&gt;Lihat Kalender Akademik" vertex="1">
+                <mxCell id="UC07" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Lihat Kalender Akademik" vertex="1">
                     <mxGeometry height="56" width="205" x="267.5" y="582" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC08" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC08&lt;br&gt;Input Nilai Mata Kuliah" vertex="1">
+                <mxCell id="UC08" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Input Nilai Mata Kuliah" vertex="1">
                     <mxGeometry height="56" width="205" x="267.5" y="692" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC02" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC02&lt;br&gt;Kelola Jadwal Kuliah" vertex="1">
+                <mxCell id="UC02" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Jadwal Kuliah" vertex="1">
                     <mxGeometry height="56" width="205" x="747.5" y="72" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC10&lt;br&gt;Kelola Data Mahasiswa" vertex="1">
+                <mxCell id="UC10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Mahasiswa" vertex="1">
                     <mxGeometry height="56" width="205" x="747.5" y="352" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC11&lt;br&gt;Tambah Data Mahasiswa" vertex="1">
+                <mxCell id="UC11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tambah Data Mahasiswa" vertex="1">
                     <mxGeometry height="56" width="205" x="517.5" y="272" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC12&lt;br&gt;Ubah Data Mahasiswa" vertex="1">
+                <mxCell id="UC12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ubah Data Mahasiswa" vertex="1">
                     <mxGeometry height="56" width="205" x="517.5" y="352" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC13&lt;br&gt;Hapus Data Mahasiswa" vertex="1">
+                <mxCell id="UC13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Hapus Data Mahasiswa" vertex="1">
                     <mxGeometry height="56" width="205" x="517.5" y="432" as="geometry"/>
                 </mxCell>
-                <mxCell id="UC06" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SIA-UC06&lt;br&gt;Proses Keputusan KRS" vertex="1">
+                <mxCell id="UC06" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Proses Keputusan KRS" vertex="1">
                     <mxGeometry height="56" width="205" x="747.5" y="672" as="geometry"/>
                 </mxCell>
                 <mxCell id="CO02" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" value="Lihat KHS" vertex="1">
