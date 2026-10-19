@@ -9,3 +9,15 @@
     Kakas  : Draw.io
     Kelas  : A
     Status : Latihan Pertemuan 2 UNIFIED MODELLING LANGUAGE (UML)
+
+    Nama   : Muhamad Rojaka
+    Nim    : 2406027
+    Kakas  : Draw.io
+    Kelas  : A
+    Status : 
+
+    Nama   : Muhamad Rojaka
+    Nim    : 2406027
+    Kakas  : Draw.io
+    Kelas  : A
+    Status : Latihan Pertemuan 4 USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION 
