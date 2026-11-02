@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="NCMe8dJ7BSkO627kBp1C">
+    <mxGraphModel dx="1949" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-4" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="910" width="230" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-8" edge="1" parent="VLvUVv3TMK6FsAJU2-0z-4" source="VLvUVv3TMK6FsAJU2-0z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=classic;endFill=1;" target="VLvUVv3TMK6FsAJU2-0z-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-6" parent="VLvUVv3TMK6FsAJU2-0z-4" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="80" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-7" parent="VLvUVv3TMK6FsAJU2-0z-4" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Membuka Halaman&lt;div&gt;Login&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="35" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-11" parent="VLvUVv3TMK6FsAJU2-0z-4" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="mengisi form login&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-5" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
+          <mxGeometry height="910" width="220" x="360" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-12" edge="1" parent="VLvUVv3TMK6FsAJU2-0z-5" source="VLvUVv3TMK6FsAJU2-0z-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="290" />
+            </Array>
+            <mxPoint x="-69.99999999999977" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-9" parent="VLvUVv3TMK6FsAJU2-0z-5" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="menampilkan form login" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-18" edge="1" parent="VLvUVv3TMK6FsAJU2-0z-5" source="VLvUVv3TMK6FsAJU2-0z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="VLvUVv3TMK6FsAJU2-0z-17" value="">
+          <mxGeometry relative="1" x="0.7301" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="430" />
+              <mxPoint x="160" y="477.5" />
+              <mxPoint x="101" y="477.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-19" connectable="0" parent="VLvUVv3TMK6FsAJU2-0z-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="[tidak]" vertex="1">
+          <mxGeometry relative="1" x="-0.2209" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-26" edge="1" parent="VLvUVv3TMK6FsAJU2-0z-5" source="VLvUVv3TMK6FsAJU2-0z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VLvUVv3TMK6FsAJU2-0z-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="430" />
+              <mxPoint x="20" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-15" parent="VLvUVv3TMK6FsAJU2-0z-5" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="validasi" vertex="1">
+          <mxGeometry height="30" width="65" x="65" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-17" parent="VLvUVv3TMK6FsAJU2-0z-5" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="menampilkan pesan kesalahan input username dan password" vertex="1">
+          <mxGeometry height="60" width="120" x="41" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-20" parent="VLvUVv3TMK6FsAJU2-0z-5" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="menampilkan dahsboard" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-10" edge="1" parent="1" source="VLvUVv3TMK6FsAJU2-0z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="VLvUVv3TMK6FsAJU2-0z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLvUVv3TMK6FsAJU2-0z-16" edge="1" parent="1" source="VLvUVv3TMK6FsAJU2-0z-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VLvUVv3TMK6FsAJU2-0z-15">
+          <mxGeometry relative="1" x="-0.035" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="490" />
+              <mxPoint x="460" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
